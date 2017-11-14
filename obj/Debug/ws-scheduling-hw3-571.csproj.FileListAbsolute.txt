@@ -1,0 +1,8 @@
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\bin\Debug\ws-scheduling-hw3-571.exe.config
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\obj\Debug\ws-scheduling-hw3-571.csprojResolveAssemblyReference.cache
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\obj\Debug\ws_scheduling_hw3_571.Properties.Resources.resources
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\obj\Debug\ws-scheduling-hw3-571.csproj.GenerateResource.Cache
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\bin\Debug\ws-scheduling-hw3-571.exe
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\bin\Debug\ws-scheduling-hw3-571.pdb
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\obj\Debug\ws-scheduling-hw3-571.exe
+c:\users\xaiyeon\documents\visual studio 2015\Projects\ws-scheduling-hw3-571\ws-scheduling-hw3-571\obj\Debug\ws-scheduling-hw3-571.pdb
